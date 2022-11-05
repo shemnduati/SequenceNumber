@@ -19,4 +19,5 @@ in the variable k, this particular series of numbers will eventually end up with
 answer. That is an+1 = 1, which will be the fnal number in the series and also the stopping
 condition of the loop. Thus, there exists an iteration value (k) such that an+1 = 1, which
 can be rewritten as ak = 1
-![image](https://user-images.githubusercontent.com/25221118/200106406-5759e561-9174-4221-a9f5-45898313a1f1.png)
+![image](https://user-images.githubusercontent.com/25221118/200106472-28aa7501-902a-4a35-b913-669373e56399.png)
+
