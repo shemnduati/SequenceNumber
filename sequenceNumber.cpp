@@ -1,25 +1,5 @@
-/// @file pa05.cpp
-/// @author Dr. Brodersen <david.brodersen@csn.edu>
-/// @date 10/11/22
-/// @note I pledge my word of honor that I have abided by the
-/// the CSN Academic Integrity Policy while completing this assignment.
-///
-/// @brief This program outputs a series of numbers starting with a user
-///        supplied integer a_0 such that
-///        a_n+1 = a_n / 2 if a_n is even and
-///        a_n+1 = 3 * a_n + 1 if a_n is odd
-///
-///        The total number of iterations is tracked as is the largest value
-///        and the position of the largest value.
-///
-/// @note People who helped me:
-///
-/// @note This is but one possible solution to the assignment.
-///       Programming techniques and commands in this solution
-///       are aligned with the current and previous chapters,
-///       labs, and lectures, which may result in a trade-off
-///       between efficient coding and what student are
-///       currently able to understand.
+/// @file sequenceNumber.cpp
+    currently able to understand.
 
 // include header files
 #include <iostream>
@@ -123,4 +103,4 @@ int main() {
     return exitState;
 }
 
-// EOF: pa05.cpp
+// EOF: sequenceNumber.cpp
